@@ -1,5 +1,6 @@
 # gofundKIDS
 THIS IS A GOFUNDME LANDING PAGE DESIGN CALLED gofundKIDS SOLELY FOR KIDS
+
 Welcome to gofundKIDS, a compassionate landing page designed solely to help children in need. This project represents 
 the initial step in creating a platform to bring hope, support, and lasting change to vulnerable kids by raising 
 awareness for their education, healthcare, shelter, and nutrition.
